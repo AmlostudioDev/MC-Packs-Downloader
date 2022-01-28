@@ -10,5 +10,5 @@
 
 <h3>You need to Restart your Game after adding One or Multiples Pack's</h3>
 
-![](https://github.com/AmlostudioDev/MC-Packs-Downloader/tree/main/Preview/McPacksImage1.jpg?raw=true)
-![](https://github.com/AmlostudioDev/MC-Packs-Downloader/tree/main/Preview/McPacksImage2.jpg?raw=true)
+![](https://github.com/AmlostudioDev/MC-Packs-Downloader/blob/main/Preview/McPacksImage1.JPG?raw=true)
+![](https://github.com/AmlostudioDev/MC-Packs-Downloader/blob/main/Preview/McPacksImage2.JPG?raw=true)
