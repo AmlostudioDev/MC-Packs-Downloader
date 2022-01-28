@@ -12,3 +12,4 @@
 
 ![](https://github.com/AmlostudioDev/MC-Packs-Downloader/blob/main/Preview/McPacksImage1.JPG?raw=true)
 ![](https://github.com/AmlostudioDev/MC-Packs-Downloader/blob/main/Preview/McPacksImage2.JPG?raw=true)
+![](https://github.com/AmlostudioDev/MC-Packs-Downloader/blob/main/Preview/McPacksImage2.PNG?raw=true)
